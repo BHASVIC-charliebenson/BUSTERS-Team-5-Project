@@ -20,27 +20,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09e13f3-d732-41cf-b87c-9775016d6b4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BUSTERS-Team-5-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BUSTERS-Team-5-Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BUSTERS_Team_5_Project_BHASVIC_EddieChow24.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="cf058a4d-f392-4c8a-b330-ce6a7cf7be43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Check out.c" beforeDir="false" afterPath="$PROJECT_DIR$/Check out.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-996b280fe4cbd4151e51.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4d941bdc575d7f1e41f1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BUSTERS_Team_5_Project_BHASVIC_EddieChow24-Debug-dc703f56d5f505e9b87a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-308b6b1d222e5180003e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2863b918a958888b44d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c97c931824492f0bf763.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-18T12-15-59-0561.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BUSTERS_Team_5_Project_BHASVIC_EddieChow24-Debug-aada0cc956676ff7a05c.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUSTERS_Team_5_Project_BHASVIC_EddieChow24.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUSTERS_Team_5_Project_BHASVIC_EddieChow24.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUSTERS_Team_5_Project_BHASVIC_EddieChow24.dir/Check_out.c.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
@@ -49,6 +45,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +66,9 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2p1RTBRfZRvMzVO3LIV8hZYRWM6" />
+  <component name="ProjectId" id="2p1Un15nZWY1gmcjIPA0vmGMptk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -109,12 +106,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d09e13f3-d732-41cf-b87c-9775016d6b4a" name="Changes" comment="" />
-      <created>1731931600681</created>
+      <changelist id="cf058a4d-f392-4c8a-b330-ce6a7cf7be43" name="Changes" comment="" />
+      <created>1731933238358</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731931600681</updated>
-      <workItem from="1731931602340" duration="1335000" />
+      <updated>1731933238358</updated>
+      <workItem from="1731933240790" duration="2518000" />
     </task>
     <servers />
   </component>

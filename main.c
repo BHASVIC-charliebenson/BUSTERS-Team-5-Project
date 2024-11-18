@@ -38,16 +38,25 @@ int main(void) {
             printf("How many children are there? (16 or below):");
             fflush(stdin);
             scanf("%d", &children[count]);
-            printf("Are you looking to get Full Board, Half Board, or Bed and Breakfast? (F, H, or B):");
-            fflush(stdin);
-            scanf("%c", &type[count]);
-            printf("How long are you staying? (days):");
-            fflush(stdin);
-            scanf("%d", &staylength[count]);
-            printf("Would you like to recieve a paper? (Y/N):");
-            fflush(stdin);
-            scanf("%c", &paper[count]);
+            do
+            {
+                printf("Are you looking to get Full Board, Half Board, or Bed and Breakfast? (F, H, or B):");
+                fflush(stdin);
+                scanf("%c", &type[count]);
+            }while(type[count]!='F'&& type[count] !='H'&&type[count]!='B' && type[count]!= 'f'&& type[count] !='h'&&type[count]!='b');
 
+            do
+            {
+                printf("How long are you staying? (days):");
+                fflush(stdin);
+                scanf("%d", &staylength[count]);
+            }while(staylength[count]<1 || staylength[count]>29);
+            do
+            {
+                printf("Would you like to recieve a paper? (Y/N):");
+                fflush(stdin);
+                scanf("%c", &paper[count]);
+            }while(paper[count]!='Y'&&paper[count]!='y'&&paper[count]!='N'&&paper[count]!='n');
             printf("\n");
             for(int i = 0; i < 6; i++){
                 printf("Room %d costs %d:\n", i+1, rooms[i]);
@@ -79,8 +88,13 @@ int main(void) {
                 else if(type[count] == 'H' || type[count] == 'h') {
                     mealtotal[count] += 7.5;
                 }
-                else {
+                else if(type[count] == 'B' || type[count] == 'b'){
                     mealtotal[count] += 2.5;
+                }
+                else
+                {
+                    printf("%c is not valid",type[count]);
+
                 }
             }
             mealtotal[count] = mealtotal[count] * staylength[count];
@@ -154,8 +168,8 @@ int main(void) {
             fflush(stdin);
             scanf("%d", &idnum);
             idnum = idnum/100;
-            printf(" The room total was £%f \n", roomtotal[idnum]);
-            printf("The board(meal) total was £%f \n", mealtotal[idnum]);
+            printf(" The room total was %f \n", roomtotal[idnum]);
+            printf("The board(meal) total was %f \n", mealtotal[idnum]);
             if(paper[idnum]=='Y' || paper[idnum]=='y') {
                 total = mealtotal[idnum] + roomtotal[idnum] + 5.5;
             }
@@ -169,7 +183,7 @@ int main(void) {
                  printf("User over 65");
                 total = total * 0.9;
             }
-                printf("\nThe total was £%f \n\n", total);
+                printf("\nThe total was %f \n\n", total);
 
             option = 4;
             break;
