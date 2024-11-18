@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/alkony.nassir24/github/BUSTERS-Team-5-Project
+# Install script for directory: C:/Users/eddie.chow24/OneDrive - BHASVIC/Documents/GitHub/BUSTERS-Team-5-Project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/alkony.nassir24/github/BUSTERS-Team-5-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/eddie.chow24/OneDrive - BHASVIC/Documents/GitHub/BUSTERS-Team-5-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
